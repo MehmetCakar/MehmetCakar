@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "mongoose": "^8.1.1",
+    "nodemailer": "^6.9.8",
+    "simple-is": "^0.2.0"
+  },
+  "name": "mehmet-cako",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mehmet": "echo 'Mehmet Çakar'"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Mehmet Çakar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MehmetCakar/MehmetCakar.git"
+  }
+}
+ 
